@@ -38,6 +38,7 @@
 - [#8171](https://github.com/influxdata/influxdb/issues/8171): Significantly improve shutdown speed for high cardinality databases.
 - [#8177](https://github.com/influxdata/influxdb/issues/8177): Fix racy integration test.
 - [#8230](https://github.com/influxdata/influxdb/issues/8230): Prevent overflowing or underflowing during window computation.
+- [#8067](https://github.com/influxdata/influxdb/issues/8067): Restrict fill(none) and fill(linear) to be usable only with aggregate queries.
 
 ## v1.2.3 [unreleased]
 
